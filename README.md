@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Amethyst - Spiritual Wellness Mobile App
 
 ![alt text](https://i.imgur.com/fjbon6R.gif)
+=======
+# Welcome to your Expo app 👋
+![alt text](https://media1.tenor.com/m/UOSpJu9VhVkAAAAd/reallymad-emoji-shooting.gif)
+>>>>>>> feca2cd (Update README.md)
 
 Amethyst is a mobile application that combines tarot cards, horoscopes, crystals, and a dream journal as one integrated entity. The goal of the app is to provide users with tools for self-reflection, spiritual growth, and maintaining overall well-being. The app was created during the school project.
 
