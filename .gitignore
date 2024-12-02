@@ -21,7 +21,7 @@ web-build/
 # dependencies
 node_modules/
 
-# Expo
+# Expoo
 .expo/
 dist/
 web-build/

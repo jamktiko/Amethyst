@@ -23,7 +23,7 @@ export function Collapsible({
     <ThemedView style={styles.container}>
       <TouchableOpacity
         style={styles.heading}
-        onPress={onToggle} // Use the onToggle passed from parent
+        onPress={onToggle}
         activeOpacity={0.8}
       >
         <Ionicons
